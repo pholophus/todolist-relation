@@ -1,7 +1,7 @@
 Clone the repo locally:
 
-git clone https://github.com/pholophus/todolist-relation.git 
-cd pingcrm-vuetify
+> git clone https://github.com/pholophus/todolist-relation.git 
+> cd pingcrm-vuetify
 
 Install PHP dependencies:
 composer install
