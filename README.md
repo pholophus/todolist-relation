@@ -1,19 +1,19 @@
-**Clone the repo locally:
+**Clone the repo locally:**
 
 > git clone https://github.com/pholophus/todolist-relation.git 
 
 > cd pingcrm-vuetify
 
-**Install PHP dependencies:
+**Install PHP dependencies:**
 > composer install
 
-**Install NPM dependencies:
+**Install NPM dependencies:**
 > npm ci
 
-**Build assets:
+**Build assets:**
 > npm run dev
 
-**Setup configuration:
+**Setup configuration:**
 > cp .env.example .env
 
 **Generate application key:
