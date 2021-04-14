@@ -2,7 +2,7 @@
 
 > git clone https://github.com/pholophus/todolist-relation.git 
 
-> cd pingcrm-vuetify
+> cd todolist
 
 ## **Install PHP dependencies:**
 > composer install
